@@ -1,14 +1,14 @@
 {
   "name": "is-benji",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Checks if the provided string is benji",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified lul\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "tmee"
+    "url": "https://github.com/VEnghed/is-benji"
   },
   "keywords": [
     "is-benji",
